@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1fffb201e42ce214c89422faaf38ee36
+timeCreated: 1513142707
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Warlock
+  fontNames:
+  - Warlock
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
